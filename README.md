@@ -39,6 +39,8 @@ BetterSwitch(
 ),
 ```
 
+![light-dark-switch](https://github.com/user-attachments/assets/4a6bdc91-34e5-46ed-a6b9-4e42d7e6aeec)
+
 ## Features
 Here is a list of all the options:
 
